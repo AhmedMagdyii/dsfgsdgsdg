@@ -18,7 +18,7 @@ const prefix = '*'
 
 
 const adminprefix = "*";
-const devs = ['502761044796768256', 'none'];
+const devs = ['525660958761156638', 'none'];
  
 
 client.on('message', message => {
